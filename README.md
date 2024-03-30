@@ -3,9 +3,9 @@
 This project is My Personal Portofolio using  with [Create React App](https://github.com/portofolioweb/create-react-app).
 
 
-# Getting Started on terminal npm install 
+# Getting Started on terminal  install 
 
-npm i or install wuxu kusamena modules kadib ayaad npm run start dheh saas ayu project kugu soo daarma
+##npm i or npm install wuxu kusamena modules kadib ayaad npm run start dheh saas ayu project kugu soo daarma
 ### `npm start`
 
 <img width="935" alt="Screenshot 2024-03-30 154540" src="https://github.com/mohamed1323/projects-reactjs/assets/114732963/e0126875-1caf-4f8f-b621-d3b4d64d5def">
@@ -16,10 +16,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-
 ### `npm run build`
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
@@ -29,6 +25,12 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://github.com/mohamed1323/projects-reactjs.git) for more information.
 
+## Features
+- About Me: An overview of my background, intrests, and experiences.
+- Projects: A collection of my  projects that i use different languages  .
+- Skills: A list of my technical skills 
+- -bio: that i describe my bios
+- Contact: a from that you can get my cellphone/address/email and .
 
 ## Learn More
 
